@@ -8,7 +8,7 @@ This system was developed as part of an individual project and includes essentia
 
 To see the **user interface and screenshots** of the system, please open the project report provided in this repository.
 
-> 📂 **File to open**: `Individual-Report.pdf`
+> 📂 **File to open**:[IndividualReport](./Individual%20Report.pdf)
 
 The report contains:
 - Project description
